@@ -1,1 +1,1 @@
-## Repository for blog posts (RIA-development with JavaScript).
+### Repository for blog posts (RIA-development with JavaScript).
