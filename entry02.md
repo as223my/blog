@@ -1,6 +1,6 @@
 # First week - a lot of confusing moments. 
 
-### Hi again!
+Hi again!
 
 Oh boy! Where should I begin? I'm feeling so rusty in my skills right now, or at least I did in the beginning of the week. 
 Now it feels a little bit better after spending some time refreshing my javascript memory. 
