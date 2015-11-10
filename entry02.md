@@ -8,3 +8,8 @@ I have also join the guild and read a bit in the slack channel to keep up with a
 
 I took a sneak peak on redux and react and I'm VERY confused. I'm hoping that after the next week the concept has become less foggy, atleast for a little little bit ;). 
 
+---
+
+####Comments
+
+[David](https://github.com/krawaller): Here's a (rather late, sorry) quick advice (that I should have put front and center on the course page, sorry again) - **Look at React first**, and save Redux and the Router for later. Start with the Getting Started tutorial on React's homepage, and only move on when you feel that you've grokked that. Hang in there, as we said before, the hill is steep but short! :)
