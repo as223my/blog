@@ -10,6 +10,6 @@ the lack of information. For exampel, i didn't even know where to stop in the
 tutorial and what to do with the main.js file in the beginning. 
 
 Thanks to mia (mn22nw) i also found out about a boilerplate (https://github.com/gaearon/react-transform-boilerplate)
-which was very handy to use (except a problem with build, added set and &&). 
+which was very handy to use (except a problem with build, added SET and && in the build:webpack row in package.json to solve the problem). 
 
 [Hello world with react-transform](https://github.com/as223my/RIA-Project/tree/gh-pages/HelloWorld-ReactTransform)
